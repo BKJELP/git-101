@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+	font-family: Helvetica;
+	background-color: #111d5e;
+	color: white;
+}
+
+#logo{
+	height: 200px;
+	width: 200px;
+}
+
+#container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	flex-direction: column;
+}
